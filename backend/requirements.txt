@@ -1,5 +1,6 @@
 uvicorn
 fastapi
 pydantic
-typing 
-sqlalchemy 
+typing
+sqlalchemy
+databases
